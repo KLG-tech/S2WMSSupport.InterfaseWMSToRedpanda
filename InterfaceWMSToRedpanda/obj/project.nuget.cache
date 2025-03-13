@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4m0myg5h8POoMuKaYPZ0WyV9cwt+SXf7gb2QzDxY7ZbTMf4glwk6+fJOe5lcaYgxxpbjqDdBvjGoaSGV87dgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects_Baru\\InterfaceWMSToRedpanda\\main\\InterfaceWMSToRedpanda\\InterfaceWMSToRedpanda\\InterfaceWMSToRedpanda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\163261.miftah\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
+    "C:\\Users\\163261.miftah\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
